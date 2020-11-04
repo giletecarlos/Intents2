@@ -13,7 +13,7 @@ public class Activity2 extends AppCompatActivity {
         setContentView(R.layout.activity_2);
 
         TextView textView = findViewById(R.id.salutacio);
-
+        //prueba
         //String nom = getIntent().getStringExtra("etiquetaNom");
 
         Bundle sacRecuperat = getIntent().getExtras();
